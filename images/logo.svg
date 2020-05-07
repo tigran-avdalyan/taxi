@@ -1,0 +1,15 @@
+<svg width="240.9" height="109.6" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_9" d="m163.6,40.6l-86.2,0l5.1,-35.6c0,-2.7 2.2,-4.9 4.9,-4.9l66.2,0c2.7,0 4.9,2.2 4.9,4.9l5.1,35.6z" class="st0"/>
+  <text stroke="null" transform="matrix(3.0488391655972027,0,0,3.854195925449981,-374.02191579781345,-97.05086642380907) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="8" id="svg_16" y="32.765979" x="150.146269" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">Սթափ</text>
+  <text stroke="null" transform="matrix(36.13286590576172,0,0,3.6560237810346052,-6970.580176115036,-223.37526347198633) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="8" id="svg_17" y="84.253128" x="193.950012" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text stroke="null" transform="matrix(31.906620673696807,0,0,34.59165946295381,-5627.3135896949325,-3726.329236486468) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="2" id="svg_18" y="110.385867" x="176.337354" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">Վարորդ</text>
+ </g>
+</svg>
